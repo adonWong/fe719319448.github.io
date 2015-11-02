@@ -1,0 +1,71 @@
+﻿$axure.loadCurrentPage({
+  "url":"应付账款明细表.html",
+  "generationDate":new Date(1446432611426.63),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"fc7c1ada669a43ae8182e01daadd47a3",
+    "type":"Axure:Page",
+    "name":"应付账款明细表",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"b3b49c34de624951bf89d981b6b909cb",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":-210,
+              "y":-7},
+            "size":{
+              "width":1797,
+              "height":893}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"0bcd4fbb1e9f4541835cf2bc8fd424fb",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":-210,
+                  "y":-7},
+                "size":{
+                  "width":1797,
+                  "height":893}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/应付账款明细表/u0.png"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "b3b49c34de624951bf89d981b6b909cb":{
+      "scriptId":"u0"},
+    "0bcd4fbb1e9f4541835cf2bc8fd424fb":{
+      "scriptId":"u1"}}});

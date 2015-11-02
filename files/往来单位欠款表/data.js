@@ -1,0 +1,71 @@
+﻿$axure.loadCurrentPage({
+  "url":"往来单位欠款表.html",
+  "generationDate":new Date(1446432611295.81),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"6d198cab56794a5ea185757d20721e3e",
+    "type":"Axure:Page",
+    "name":"往来单位欠款表",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"2d731d94aae54f4bb794086e6020643b",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":67,
+              "y":280},
+            "size":{
+              "width":2030,
+              "height":969}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"da9e9d579ebd43459d1c29ea24b22d61",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":67,
+                  "y":280},
+                "size":{
+                  "width":2030,
+                  "height":969}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/往来单位欠款表/u0.png"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "2d731d94aae54f4bb794086e6020643b":{
+      "scriptId":"u0"},
+    "da9e9d579ebd43459d1c29ea24b22d61":{
+      "scriptId":"u1"}}});

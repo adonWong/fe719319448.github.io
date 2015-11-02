@@ -1,0 +1,71 @@
+﻿$axure.loadCurrentPage({
+  "url":"商品库存余额表.html",
+  "generationDate":new Date(1446432611331.54),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"36968e7be90e45cc9eb59e67fe7b5773",
+    "type":"Axure:Page",
+    "name":"商品库存余额表",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"dbbd2f22ac2f45d8b883b1938df26eeb",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":-222,
+              "y":6},
+            "size":{
+              "width":1821,
+              "height":868}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"80be77ee0e9746e181aa3d252f80df36",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":-222,
+                  "y":6},
+                "size":{
+                  "width":1821,
+                  "height":868}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/商品库存余额表/u0.png"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "dbbd2f22ac2f45d8b883b1938df26eeb":{
+      "scriptId":"u0"},
+    "80be77ee0e9746e181aa3d252f80df36":{
+      "scriptId":"u1"}}});
